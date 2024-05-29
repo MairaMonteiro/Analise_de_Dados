@@ -4,7 +4,7 @@
 
 
 ### Ferramentas Utilizadas
-- **Linguagem de Programação**: Python
+- **Linguagem de Programação**: Python, SQL
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn
 - **Ambiente**: Jupyter Notebook
 
